@@ -54,7 +54,7 @@
                         <table class="table table-bordered" style="width: 15rem;">
                             <thead>
                                 <tr>
-                                    <th >Системийн Дугаар</th>
+                                    <th style="width: 13rem;">Системийн Дугаар</th>
                                     <th style="width: 13rem;">Системийн Нэр</th>
                                     <th style="width: 13rem;">Системийн төрөл </th>
                                     <th style="width: 13rem;">Системийн үнэлгээ</th>
